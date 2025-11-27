@@ -1,7 +1,6 @@
 
 
 # Hi, I'm Syed Abu Yousuf 👋  
-Animal Nutrition Researcher | Nutrigenomics | Animal Genomics | Machine Learning in Animal Science | Data Analysis (R)
 
 - 🔬 Working on: Ruminant and Non-ruminant Animals  
 - 🐄 Research Assistant  
