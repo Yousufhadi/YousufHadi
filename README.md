@@ -4,6 +4,6 @@
 
 - 🔬 Working on: Ruminant and Non-ruminant Animals  
 - 🐄 Research Assistant  
-- 📊 Skills: R, GLM/Regression, Data visualization, Genomic data basics  
+- 📊 Skills: R, Linear modeling, Data analysis and visualization, Genomic data basics  
 - 🧬 Interested in: Sustainable Livestock Production, Genetics & Machine Learning  
  
